@@ -5,7 +5,8 @@ I am a frontend web developer with 4 years of hands-on experience. I truly love 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werpy&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+
 - 📫 Telegram: [@awer_pyt](https://t.me/awer_pyt)
 - ✉️Email: [jeka200329@gmail.com](mailto:jeka200329@gmail.com)
-- 🧑‍💻Linkedin: [@awer_py]([(https://www.linkedin.com/in/awer-py-60029119b/)])
+- 🧑‍💻Linkedin: [@awer_py](https://www.linkedin.com/in/awer-py-60029119b/)
 - 📋 Resume: [Up-to-date](https://github.com/werpy/werpy/blob/main/Resume) 
