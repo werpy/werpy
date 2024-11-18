@@ -9,4 +9,4 @@ I am a frontend web developer with 4 years of hands-on experience. I truly love 
 - 📫 Telegram: [@awer_pyt](https://t.me/awer_pyt)
 - ✉️Email: [jeka200329@gmail.com](mailto:jeka200329@gmail.com)
 - 🧑‍💻Linkedin: [@awer_py]([www.linkedin.com/in/awer-py-60029119b/])
-- 📋 Resume: [Up-to-date](https://github.com/) 
+- 📋 Resume: [Up-to-date](https://github.com/werpy/werpy/blob/main/Resume) 
