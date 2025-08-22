@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evgen</h1>
+<h1 align="center">Hi 👋, I'm Yevhen</h1>
 
 
 I am a frontend web developer with 4 years of hands-on experience. I truly love development because of its challenges and unusual tasks that stimulate you not to stand on the spot but develop and learn something new all the time.
